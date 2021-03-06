@@ -1,0 +1,1 @@
+https://docs.ctre-phoenix.com/en/latest/blog/blog-perf.html - Talon errors / CAN Errors
