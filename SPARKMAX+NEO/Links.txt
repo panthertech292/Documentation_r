@@ -1,0 +1,9 @@
+API - https://www.revrobotics.com/content/sw/max/sw-docs/SPARK-MAX-Java-API-Offline.pdf
+API Download - https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information
+Code Examples - https://github.com/REVrobotics/SPARK-MAX-Examples/tree/master/Java
+From CTRE to Spark Max - https://docs.revrobotics.com/sparkmax/software-resources/migrating-ctre-to-rev
+Spark Max User Manual - https://andymark-weblinc.netdna-ssl.com/media/W1siZiIsIjIwMjAvMDUvMTkvMTQvMDYvNDMvNDUyNGFkOTMtZjYwZi00ODgyLWFlNzQtNjAxMzU5MzQyMjBiL2FtLTQyNjEgU1BBUksgTUFYIC0gVXNlciBNYW51YWwuaHRtbCJdXQ/am-4261%20SPARK%20MAX%20-%20User%20Manual.html?sha=7c9ea7a1ed73eb42
+Guide to hardware client - https://docs.revrobotics.com/sparkmax/rev-hardware-client/getting-started-with-the-rev-hardware-client/navigating-the-rev-hardware-client
+Updating multiple Spark Max - https://docs.revrobotics.com/sparkmax/rev-hardware-client/getting-started-with-the-rev-hardware-client/updating-device-firmware
+
+Neo Brushless Motor Data Sheet - https://www.revrobotics.com/content/docs/REV-21-1650-DS.pdf
