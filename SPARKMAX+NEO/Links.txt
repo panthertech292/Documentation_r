@@ -7,3 +7,5 @@ Guide to hardware client - https://docs.revrobotics.com/sparkmax/rev-hardware-cl
 Updating multiple Spark Max - https://docs.revrobotics.com/sparkmax/rev-hardware-client/getting-started-with-the-rev-hardware-client/updating-device-firmware
 
 Neo Brushless Motor Data Sheet - https://www.revrobotics.com/content/docs/REV-21-1650-DS.pdf
+
+VENDOR LIBRARY DOWNLOAD: https://software-metadata.revrobotics.com/REVLib.json
